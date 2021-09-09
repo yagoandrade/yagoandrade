@@ -1,4 +1,4 @@
-### Oii! Eu sou o Yago Andrade 👋
+### Oii! Eu sou o Yago 👋
 
 ##
  <div >
