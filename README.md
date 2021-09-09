@@ -2,10 +2,10 @@
 
 ##
  <div>
- <a href="https://github.com/YagoAndrade">
+ <a href="https://github.com/yagoandrade">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YagoAndrade&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YagoAndrade&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yagoandrade&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yagoandrade&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 <div style="display: inline_block;"><br>
   <img align="center" alt="Yago-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -32,5 +32,5 @@
 <div> 
  
  
-  ![Snake animation](https://github.com/YagoAndrade/YagoAndrade/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/yagoandrade/yagoandrade/blob/output/github-contribution-grid-snake.svg)
 </div>
