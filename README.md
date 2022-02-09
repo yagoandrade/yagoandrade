@@ -1,4 +1,4 @@
-### Oii! Eu sou o Yago 👋
+### Hi! I'm Yago, a passionate frontend developer from Brazil. 👋
 
 ##
  <div >
