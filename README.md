@@ -28,7 +28,7 @@
   <a href = "mailto:ayav@ic.ufal.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <div> 
  
- 👨‍💻 All of my projects are available at my personal portfolio: https://yago.vercel.app/
+ 👨‍💻 All of my projects are available at my personal portfolio: https://yagoandrade.com/
  
   <!--![Snake animation](https://github.com/yagoandrade/yagoandrade/blob/output/github-contribution-grid-snake.svg)-->
 </div>
