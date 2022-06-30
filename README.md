@@ -1,6 +1,5 @@
-## Hi! I'm Yago, a passionate Front-End Developer from Brazil. 👋
+## Hi, I'm Yago! A passionate frontend developer from Brazil. 👋
 
-##
  <div>
  <a href="https://github.com/yagoandrade">
 
@@ -59,10 +58,7 @@
         <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank">
     </a> 
   <a href="https://www.linkedin.com/in/YagoAndrade/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:ayav@ic.ufal.br"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 <div> 
  
- 👨‍💻 All of my projects are available at my personal portfolio: https://yagoandrade.com/
-
   <!--![Snake animation](https://github.com/yagoandrade/yagoandrade/blob/output/github-contribution-grid-snake.svg)-->
 </div>
