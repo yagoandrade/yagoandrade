@@ -4,11 +4,10 @@
     Software Engineer @ Phantom Network
     
     - Front-End Developer
-    - React && Typescript
+    - HTML, CSS, Javascript && C++
+    - React, NextJS, Tailwind, Typescript && Supabase
     - Functional Programming
-    - Graphic Designer
-    - Games are my soul
-    - Cat Lover 
+    - Interested in Web3, Web Apps and Software Architecture
 
    <a href="https://www.behance.net/yago-andrade/" target="_blank">
         <img src="https://img.shields.io/badge/Behance-0054F7?style=for-the-badge&logo=behance&logoColor=white" target="_blank">
@@ -16,7 +15,7 @@
    <a href="https://www.linkedin.com/in/YagoAndrade/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
    </a> 
-   <a href="mailto:yandrade.dev@gmail.com" target="_blank">
+   <a href="mailto:yagoandrade.dev@gmail.com" target="_blank">
         <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
    </a> 
   
