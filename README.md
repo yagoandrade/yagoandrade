@@ -9,6 +9,7 @@
     - Front-End Developer
     - HTML, CSS, Javascript && C++
     - React, NextJS, Tailwind, Typescript && Supabase
+    - Accessibility, Performance && SEO
 
    <a href="https://www.linkedin.com/in/YagoAndrade/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
