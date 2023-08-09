@@ -7,4 +7,4 @@
 
 🇧🇷 Born in Alagoas, Brazil
 
-<a href="mailto:contact@yagoandrade.com" target="_blank">Contact</a>
+<a href="mailto:contact@yagoandrade.com" target="_blank">contact@yagoandrade.com</a>
