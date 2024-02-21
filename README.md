@@ -9,6 +9,6 @@
 <br>
 <a href="https://www.linkedin.com/in/YagoAndrade/" target="_blank">LinkedIn</a>
 
-🇧🇷 Born in Alagoas, Brazil
+🇧🇷 Born in Maceió, Brazil
 
 <a href="mailto:contact@yagoandrade.com" target="_blank">contact@yagoandrade.com</a>
