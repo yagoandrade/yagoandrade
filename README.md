@@ -5,7 +5,7 @@
 <br>
 <a href="https://blog.yagoandrade.com/" target="_blank">Blog</a>
 <br>
-<a href="https://www.twitter.com/yagoandradev/" target="_blank">Twitter</a>
+<a href="https://www.twitter.com/yagoandradev/" target="_blank">Twitter/X</a>
 <br>
 <a href="https://www.linkedin.com/in/YagoAndrade/" target="_blank">LinkedIn</a>
 
