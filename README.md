@@ -1,5 +1,5 @@
 ### Hey! 👋
-I'm Yago - a multidisciplinary creator at the intersection of technology & innovation. I've spent the last 7+ years crafting pragmatic software that reaches thousands of users worldwide.
+I'm Yago - a multidisciplinary creator at the intersection of technology & innovation. I've spent the last 8+ years crafting pragmatic software that reaches thousands of users worldwide.
       
 ### Find me elsewhere 🌎
 <a href="https://www.twitter.com/yagoandradev/" target="_blank">Twitter/X</a>
